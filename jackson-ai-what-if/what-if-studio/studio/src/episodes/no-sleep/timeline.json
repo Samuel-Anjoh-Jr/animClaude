@@ -1,0 +1,287 @@
+{
+ "slug": "no-sleep",
+ "title": "WHAT IF YOU NEVER NEEDED TO SLEEP?",
+ "fps": 30,
+ "total": 681,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 23,
+   "t0": 0,
+   "t1": 23,
+   "line": "No sleep."
+  },
+  {
+   "shot": "S2",
+   "a": 23,
+   "b": 49,
+   "t0": 0,
+   "t1": 26,
+   "line": "Midnight."
+  },
+  {
+   "shot": "S3",
+   "a": 49,
+   "b": 119,
+   "t0": 0,
+   "t1": 70,
+   "line": "Three more levels. No sleep."
+  },
+  {
+   "shot": "S4",
+   "a": 119,
+   "b": 150,
+   "t0": 0,
+   "t1": 31,
+   "line": "Two a. m."
+  },
+  {
+   "shot": "S5",
+   "a": 150,
+   "b": 227,
+   "t0": 0,
+   "t1": 77,
+   "line": "Homework, done. No sleep."
+  },
+  {
+   "shot": "S6",
+   "a": 227,
+   "b": 260,
+   "t0": 0,
+   "t1": 33,
+   "line": "Four a. m."
+  },
+  {
+   "shot": "S7",
+   "a": 260,
+   "b": 305,
+   "t0": 0,
+   "t1": 45,
+   "line": "Everyone's asleep. Everyone"
+  },
+  {
+   "shot": "S8",
+   "a": 305,
+   "b": 332,
+   "t0": 0,
+   "t1": 27,
+   "line": "but you."
+  },
+  {
+   "shot": "S9",
+   "a": 332,
+   "b": 397,
+   "t0": 0,
+   "t1": 65,
+   "line": "What if you never needed to sleep? One"
+  },
+  {
+   "shot": "S10",
+   "a": 397,
+   "b": 448,
+   "t0": 0,
+   "t1": 51,
+   "line": "catch: sleep is when your brain"
+  },
+  {
+   "shot": "S11",
+   "a": 448,
+   "b": 505,
+   "t0": 0,
+   "t1": 57,
+   "line": "flushes its waste. A day"
+  },
+  {
+   "shot": "S12",
+   "a": 505,
+   "b": 585,
+   "t0": 0,
+   "t1": 80,
+   "line": "awake, and your reaction time matches a drunk driver's."
+  },
+  {
+   "shot": "S13",
+   "a": 585,
+   "b": 612,
+   "t0": 0,
+   "t1": 27,
+   "line": "That's real."
+  },
+  {
+   "shot": "S14",
+   "a": 612,
+   "b": 681,
+   "t0": 0,
+   "t1": 69,
+   "line": "So how long could you last?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium wide",
+   "key": 22,
+   "len": 23,
+   "first": 0,
+   "line": "No sleep.",
+   "note": "Midnight: Pip sits cross-legged on the foot of the bed with the handheld, its screen lighting his face; the cat asleep at the head of the bed; moonlight in the window"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "key": 20,
+   "len": 26,
+   "first": 23,
+   "line": "Midnight.",
+   "note": "the bedside alarm clock reads 00:00, red digits; Pip's mitten picking up the handheld out of frame below"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "key": 34,
+   "len": 70,
+   "first": 49,
+   "line": "Three more levels. No sleep.",
+   "note": "Pip's face lit from below by the handheld; the eyes glint cyan; a level-complete ding, x3 floating off"
+  },
+  {
+   "id": "S4",
+   "size": "top-down insert",
+   "key": 24,
+   "len": 31,
+   "first": 119,
+   "line": "Two a. m.",
+   "note": "the finished homework, ticks and an A+, next to the pencil and a pen cap; Pip's mitten drops the finished sheet"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "key": 40,
+   "len": 77,
+   "first": 150,
+   "line": "Homework, done. No sleep.",
+   "note": "Two a.m.: Pip at the desk, paper stack done, shoves back, smug; the desk lamp is the only light"
+  },
+  {
+   "id": "S6",
+   "size": "wide, from behind",
+   "key": 27,
+   "len": 33,
+   "first": 227,
+   "line": "Four a. m.",
+   "note": "Four a.m.: Pip stands at the window, the city black outside, the moon high; he has not stopped"
+  },
+  {
+   "id": "S7",
+   "size": "macro insert",
+   "key": 30,
+   "len": 45,
+   "first": 260,
+   "line": "Everyone's asleep. Everyone",
+   "note": "the city through the glass: street after street of dark windows, one last light going out"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "key": 17,
+   "len": 27,
+   "first": 305,
+   "line": "but you.",
+   "note": "Pip in the window's reflection: eyes glinting cyan, the faint city points behind; a little uncanny"
+  },
+  {
+   "id": "S9",
+   "size": "title, wide",
+   "key": 44,
+   "len": 65,
+   "first": 332,
+   "line": "What if you never needed to sleep? One",
+   "note": "the premise over the city at first light; Pip on the parapet, still awake, the handheld dark in his hand"
+  },
+  {
+   "id": "S10",
+   "size": "medium, low angle",
+   "key": 24,
+   "len": 51,
+   "first": 397,
+   "line": "catch: sleep is when your brain",
+   "note": "Pip stops mid-step and looks up from the handheld: the sky is starting to turn"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 46,
+   "len": 57,
+   "first": 448,
+   "line": "flushes its waste. A day",
+   "note": "the brain in line drawing: blue cerebrospinal fluid sweeping in while it sleeps, waste dots washing out; SLEEP = THE FLUSH"
+  },
+  {
+   "id": "S12",
+   "size": "schematic",
+   "key": 60,
+   "len": 80,
+   "first": 505,
+   "line": "awake, and your reaction time matches a drunk driver's.",
+   "note": "a clock counts to 17 h and 24 h awake; a reaction bar falls to 0.05% then 0.10% BAC, past the legal limit"
+  },
+  {
+   "id": "S13",
+   "size": "extreme close-up",
+   "key": 16,
+   "len": 27,
+   "first": 585,
+   "line": "That's real.",
+   "note": "That's real.: Pip, the light turning warm"
+  },
+  {
+   "id": "S14",
+   "size": "wide, low angle",
+   "key": 44,
+   "len": 69,
+   "first": 612,
+   "line": "So how long could you last?",
+   "note": "the sun clears the rooftops, the sky burns; Pip stands small against it, a whole night behind him"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.4,
+   "f": 61
+  },
+  {
+   "kind": "flash",
+   "color": "#FFE2B0",
+   "o": 0.25,
+   "f": 282
+  },
+  {
+   "kind": "flash",
+   "color": "#FFF3DC",
+   "f": 332
+  },
+  {
+   "kind": "shake",
+   "len": 10,
+   "amp": 8,
+   "f": 557
+  },
+  {
+   "kind": "flash",
+   "color": "#FFDDAA",
+   "o": 0.3,
+   "f": 612
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.5225,
+  "musicVol": 0.1183,
+  "voice": "no-sleep/voice.wav",
+  "sfx": "no-sleep/sfx.wav",
+  "music": "no-sleep/music.wav"
+ }
+}

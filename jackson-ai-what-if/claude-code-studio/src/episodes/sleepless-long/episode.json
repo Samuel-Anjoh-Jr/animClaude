@@ -1,0 +1,26 @@
+{
+  "id": "SleeplessLong",
+  "slug": "sleepless-long",
+  "topic": "What if you never needed to sleep?",
+  "title": ["WHAT IF YOU NEVER", "NEEDED TO SLEEP?"],
+  "voice": {"settings": {"stability": 0.46, "similarity_boost": 0.8, "style": 0.38, "use_speaker_boost": true}},
+  "script": [
+    {"beat": "hook (cold open, flash-forward)", "text": "It's three forty-seven a.m. Every window in the city is dark. Except two. One of them is yours. The person in the other one is waving at you."},
+    {"beat": "title", "text": "What if you never needed to sleep?"},
+    {"beat": "discovery", "text": "It starts on an ordinary Tuesday. You switch off the light, close your eyes, and... nothing. No yawn. No heavy eyelids. Not that night. Not ever."},
+    {"beat": "the fun part, with a real number", "text": "At first, it's amazing. Eight extra hours, every night. That's two thousand nine hundred and twenty hours a year. Enough class time to learn Spanish almost four times over. You master the guitar. You finish every game you own."},
+    {"beat": "rehook: the cost", "text": "But here's the part nobody warns you about. Every night, the world shuts down without you. One window at a time."},
+    {"beat": "is any of this real? (science)", "text": "And that's strange, because sleep is ancient. At least four hundred and fifty million years old. Even jellyfish do it, and they don't have a brain. The most famous attempt to skip it, in nineteen sixty-four, lasted eleven days."},
+    {"beat": "climax, callback to the hook", "text": "So you should be the only one. Which brings us back to three forty-seven. You wave back. And across the street, the light goes out."},
+    {"beat": "end screen question", "text": "What would you do with your first sleepless night? Tell me in the comments."}
+  ],
+  "science": [
+    {"claim": "2,920 extra hours a year", "working": "8 h x 365 days = 2,920 h", "source": "arithmetic on the premise"},
+    {"claim": "Enough class time to learn Spanish almost four times over", "working": "FSI Category I languages (Spanish among them) take 24-30 weeks, 600-750 class hours. 2,920 / 750 = 3.9; 2,920 / 600 = 4.9. 'Almost four times' uses the top of the range.", "source": "US State Department, Foreign Service Institute language difficulty list (Category I: 600-750 class hours)"},
+    {"claim": "Sleep is at least 450 million years old", "working": "Zebrafish sleep-state brain activity resembles slow-wave and REM sleep; fish and land vertebrates split at least 450 million years ago.", "source": "Leung et al., Nature 2019; Stanford Medicine release via ScienceDaily, 10 Jul 2019"},
+    {"claim": "Even jellyfish do it, with no brain", "working": "Cassiopea, with a diffuse nerve net and no central brain, meets three tests for a sleep-like state.", "source": "Nath et al., Current Biology, 21 Sep 2017"},
+    {"claim": "The most famous attempt to skip it, in 1964, lasted eleven days", "working": "Randy Gardner stayed awake about 264 hours (11 days), ending 8 Jan 1964, monitored by Stanford's William Dement. 'Most famous', not 'longest ever', because other claims exist.", "source": "NPR, 'Lessons from sleeplessness: The 60th anniversary of Randy Gardner's world record', 28 Jan 2024"}
+  ],
+  "gaps": {"word": 0.14, "comma": 0.26, "sentence": 0.42, "question": 0.6,
+    "pairs": {"a.m|Every": 0.5, "two|One": 0.5, "you|What": 0.9, "sleep|It": 1.0, "and|nothing": 0.7, "ever|At": 0.8, "own|But": 0.8, "time|And": 0.8, "days|So": 0.8, "back|And": 0.5, "out|What": 1.1}}
+}

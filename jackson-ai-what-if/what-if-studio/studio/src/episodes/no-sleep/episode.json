@@ -1,0 +1,405 @@
+{
+ "id": "NoSleep",
+ "slug": "no-sleep",
+ "topic": "What if you never needed to sleep?",
+ "title": [
+  "WHAT IF YOU NEVER",
+  "NEEDED TO SLEEP?"
+ ],
+ "accent": "SLEEP",
+ "power": {
+  "word": "No sleep.",
+  "rule": "you never sleep: the whole night is yours, and you never tire",
+  "look": "Pip's eyes glint cyan, the night's clock jumps hour to hour, an AWAKE chip beside his head"
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (small and selfish)",
+   "text": "No sleep. Midnight. Three more levels."
+  },
+  {
+   "beat": "1 cold open, demo 2 (useful)",
+   "text": "No sleep. Two a.m. Homework, done."
+  },
+  {
+   "beat": "1 cold open, demo 3 (a little uncanny)",
+   "text": "No sleep. Four a.m. Everyone's asleep. Everyone but you."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "What if you never needed to sleep?"
+  },
+  {
+   "beat": "4 the turn: the cost, one real fact",
+   "text": "One catch: sleep is when your brain flushes its waste. A day awake, and your reaction time matches a drunk driver's. That's real."
+  },
+  {
+   "beat": "5-7 folded into a question",
+   "text": "So how long could you last?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "Sleep is when your brain flushes its waste.",
+   "working": "The glymphatic system: during sleep, cerebrospinal fluid influx into the brain rises sharply, the interstitial space widens, and waste (including beta-amyloid) is cleared far faster than while awake — clearance of soluble amyloid-beta measured about twice as fast in sleeping mice. Wakefulness means the flush mostly stops, so 'never sleep' means the waste never goes.",
+   "source": "Xie et al., 'Sleep Drives Metabolite Clearance from the Adult Brain', Science 342, 373 (18 Oct 2013, Nedergaard lab, Univ. of Rochester)"
+  },
+  {
+   "claim": "A day awake (24 hours without sleep), and your reaction time matches a drunk driver's.",
+   "working": "Dawson & Reid, Nature 395, 115 (1997) 'Fatigue, alcohol and performance impairment': psychomotor performance lost after 17 h awake was equivalent to about 0.05% blood alcohol, and the equivalent rose at roughly 0.005% BAC per hour awake — about 0.10% at 24 h, above every legal driving limit. Williamson & Feyer (Occup Environ Med 57, 649, 2000) confirmed ~17-19 h deprivation matches BAC 0.05% on reaction tasks. The script says 'a day awake' = 24 h; the schematic states the 0.05% at 17 h and 0.10% at 24 h.",
+   "source": "Dawson & Reid, Nature 395, 115 (1997); Williamson & Feyer, Occup Environ Med 57, 649 (2000)"
+  }
+ ],
+ "cast": [
+  "pipHood"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "medium wide",
+   "set": "bedroom",
+   "key": 20,
+   "note": "Midnight: Pip sits cross-legged on the foot of the bed with the handheld, its screen lighting his face; the cat asleep at the head of the bed; moonlight in the window"
+  },
+  {
+   "id": "S2",
+   "size": "macro insert, high angle",
+   "set": "bedroom (nightstand)",
+   "key": 22,
+   "note": "the bedside alarm clock reads 00:00, red digits; Pip's mitten picking up the handheld out of frame below"
+  },
+  {
+   "id": "S3",
+   "size": "close-up",
+   "set": "bedroom",
+   "key": 60,
+   "note": "Pip's face lit from below by the handheld; the eyes glint cyan; a level-complete ding, x3 floating off"
+  },
+  {
+   "id": "S4",
+   "size": "top-down insert",
+   "set": "bedroom (desk top)",
+   "key": 26,
+   "note": "the finished homework, ticks and an A+, next to the pencil and a pen cap; Pip's mitten drops the finished sheet"
+  },
+  {
+   "id": "S5",
+   "size": "medium",
+   "set": "study (night)",
+   "key": 58,
+   "note": "Two a.m.: Pip at the desk, paper stack done, shoves back, smug; the desk lamp is the only light"
+  },
+  {
+   "id": "S6",
+   "size": "wide, from behind",
+   "set": "bedroom",
+   "key": 28,
+   "note": "Four a.m.: Pip stands at the window, the city black outside, the moon high; he has not stopped"
+  },
+  {
+   "id": "S7",
+   "size": "macro insert",
+   "set": "bedroom (through the window)",
+   "key": 40,
+   "note": "the city through the glass: street after street of dark windows, one last light going out"
+  },
+  {
+   "id": "S8",
+   "size": "close-up",
+   "set": "bedroom (his reflection)",
+   "key": 24,
+   "note": "Pip in the window's reflection: eyes glinting cyan, the faint city points behind; a little uncanny"
+  },
+  {
+   "id": "S9",
+   "size": "title, wide",
+   "set": "rooftop (dawn)",
+   "key": 56,
+   "note": "the premise over the city at first light; Pip on the parapet, still awake, the handheld dark in his hand"
+  },
+  {
+   "id": "S10",
+   "size": "medium, low angle",
+   "set": "rooftop (dawn)",
+   "key": 46,
+   "note": "Pip stops mid-step and looks up from the handheld: the sky is starting to turn"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 50,
+   "note": "the brain in line drawing: blue cerebrospinal fluid sweeping in while it sleeps, waste dots washing out; SLEEP = THE FLUSH"
+  },
+  {
+   "id": "S12",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 74,
+   "note": "a clock counts to 17 h and 24 h awake; a reaction bar falls to 0.05% then 0.10% BAC, past the legal limit"
+  },
+  {
+   "id": "S13",
+   "size": "extreme close-up",
+   "set": "rooftop (dawn)",
+   "key": 24,
+   "note": "That's real.: Pip, the light turning warm"
+  },
+  {
+   "id": "S14",
+   "size": "wide, low angle",
+   "set": "rooftop (dawn)",
+   "key": 60,
+   "note": "the sun clears the rooftops, the sky burns; Pip stands small against it, a whole night behind him"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "No"
+  },
+  {
+   "shot": "S2",
+   "at": "Midnight"
+  },
+  {
+   "shot": "S3",
+   "at": "Three"
+  },
+  {
+   "shot": "S4",
+   "at": "Two"
+  },
+  {
+   "shot": "S5",
+   "at": "Homework"
+  },
+  {
+   "shot": "S6",
+   "at": "Four"
+  },
+  {
+   "shot": "S7",
+   "at": "Everyone's"
+  },
+  {
+   "shot": "S8",
+   "at": "but"
+  },
+  {
+   "shot": "S9",
+   "at": "What"
+  },
+  {
+   "shot": "S10",
+   "at": "catch"
+  },
+  {
+   "shot": "S11",
+   "at": "flushes"
+  },
+  {
+   "shot": "S12",
+   "at": "awake"
+  },
+  {
+   "shot": "S13",
+   "at": "That's"
+  },
+  {
+   "shot": "S14",
+   "at": "So"
+  }
+ ],
+ "tail": 1.0,
+ "gaps": {
+  "word": 0.16,
+  "comma": 0.3,
+  "sentence": 0.45,
+  "question": 0.6,
+  "pairs": {
+   "sleep|Midnight": 0.7,
+   "levels|No": 0.7,
+   "sleep|Two": 0.55,
+   "done|No": 0.6,
+   "sleep|Four": 0.7,
+   "you|What": 0.6,
+   "waste|A": 0.5,
+   "driver's|That's": 0.55,
+   "real|So": 0.65
+  }
+ },
+ "fx": [
+  {
+   "at": "S3+12",
+   "kind": "flash",
+   "color": "#DDF2FF",
+   "o": 0.4
+  },
+  {
+   "at": "S7+22",
+   "kind": "flash",
+   "color": "#FFE2B0",
+   "o": 0.25
+  },
+  {
+   "at": "S9",
+   "kind": "flash",
+   "color": "#FFF3DC"
+  },
+  {
+   "at": "S12+52",
+   "kind": "shake",
+   "len": 10,
+   "amp": 8
+  },
+  {
+   "at": "S14",
+   "kind": "flash",
+   "color": "#FFDDAA",
+   "o": 0.3
+  }
+ ],
+ "sound": {
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "step": [
+    "a single sneaker footstep on a wooden stair, close",
+    0.5
+   ],
+   "pop": [
+    "a cartoon speech bubble pop, short and bright",
+    0.5
+   ],
+   "paper_land": [
+    "a thick stack of paper sheets dropped flat on a wooden desk, a soft slap and rustle",
+    0.7
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "switch_off": [
+    "a heavy electrical breaker switching off with a dull clunk",
+    0.5
+   ],
+   "buzzer": [
+    "a game show wrong answer buzzer, short",
+    0.8
+   ],
+   "blip": [
+    "a small handheld game console bleeping one short electronic note, cartoon, soft, short",
+    0.6
+   ],
+   "brain_flow": [
+    "a soft watery stream flowing and bubbling gently through a narrow pipe, short",
+    1.4
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "room_tone",
+    0.16,
+    "onset",
+    "S9"
+   ],
+   [
+    "sleep+12",
+    "blip",
+    0.3
+   ],
+   [
+    "levels+12",
+    "ding",
+    0.35
+   ],
+   [
+    "S4+8",
+    "paper_land",
+    0.4
+   ],
+   [
+    "done+14",
+    "pop",
+    0.45
+   ],
+   [
+    "Everyone+8",
+    "switch_off",
+    0.35
+   ],
+   [
+    "S9+2",
+    "roof_wind",
+    0.15,
+    "onset"
+   ],
+   [
+    "S9",
+    "title_boom",
+    0.55,
+    "peak"
+   ],
+   [
+    "catch+12",
+    "drone_hit",
+    0.32,
+    "peak",
+    "flushes"
+   ],
+   [
+    "S11+10",
+    "brain_flow",
+    0.3,
+    "onset",
+    "awake"
+   ],
+   [
+    "S14+48",
+    "sparkle",
+    0.45
+   ],
+   [
+    "S12+4",
+    "counter_tick",
+    0.28
+   ]
+  ],
+  "music": {
+   "clip": "music",
+   "until": "catch+4"
+  },
+  "levels": {
+   "sfx_lu": -1.0,
+   "music_lu": -9.5
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "kazchart-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "KazChart Skill renderer (proprietary - see rights/OWNERSHIP_AND_RIGHTS.txt)",
+  "license": "UNLICENSED",
+  "scripts": {
+    "render": "node scripts/render.mjs",
+    "demo": "node scripts/render.mjs examples/ink-demo.json ink-demo.mp4 --scale 0.5"
+  },
+  "dependencies": { "playwright": "^1.47.0" }
+}

@@ -1,0 +1,27 @@
+node_modules
+out
+build
+.remotion
+.whisper
+*.log
+.DS_Store
+
+# --- size trimming: heavy media/docs stay local only ---
+*.mp4
+*.mov
+*.webm
+*.gif
+*.wav
+*.docx
+*.pdf
+*.download
+video-projects/
+*_files/
+out/
+# other individual files over 1 MB
+/jackson-ai-what-if/claude-code-studio/public/sleepless-long/voice_raw.mp3
+/jackson-ai-what-if/voiceover-no-sleep-long.mp3
+/references/references/photos/crt_cables.png
+/scroll-craft-main/scroll-craft-main/media/ais.webp
+/scroll-craft-main/scroll-craft-main/media/nateherk.webp
+/herk-edit-kit/examples/showcase/ais-live-ad.mp4

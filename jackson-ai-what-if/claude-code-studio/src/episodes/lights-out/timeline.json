@@ -1,0 +1,297 @@
+{
+ "slug": "lights-out",
+ "title": "WHAT IF YOU NEVER NEEDED TO SLEEP?",
+ "fps": 30,
+ "total": 748,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 33,
+   "t0": 0,
+   "t1": 33,
+   "line": "Lights out."
+  },
+  {
+   "shot": "S2",
+   "a": 33,
+   "b": 56,
+   "t0": 0,
+   "t1": 23,
+   "line": "You beat the game.",
+   "look": "awake"
+  },
+  {
+   "shot": "S3",
+   "a": 56,
+   "b": 75,
+   "t0": 0,
+   "t1": 19,
+   "line": "",
+   "look": "awake"
+  },
+  {
+   "shot": "S4",
+   "a": 75,
+   "b": 111,
+   "t0": 0,
+   "t1": 36,
+   "line": "Lights out."
+  },
+  {
+   "shot": "S5",
+   "a": 111,
+   "b": 136,
+   "t0": 0,
+   "t1": 25,
+   "line": "You learn guitar.",
+   "look": "awake"
+  },
+  {
+   "shot": "S6",
+   "a": 136,
+   "b": 156,
+   "t0": 0,
+   "t1": 20,
+   "line": "",
+   "look": "awake"
+  },
+  {
+   "shot": "S7",
+   "a": 156,
+   "b": 191,
+   "t0": 0,
+   "t1": 35,
+   "line": "Lights out."
+  },
+  {
+   "shot": "S8",
+   "a": 191,
+   "b": 221,
+   "t0": 0,
+   "t1": 30,
+   "line": "You stand there,",
+   "look": "awake"
+  },
+  {
+   "shot": "S9",
+   "a": 221,
+   "b": 266,
+   "t0": 0,
+   "t1": 45,
+   "line": "watching them breathe.",
+   "look": "awake"
+  },
+  {
+   "shot": "S10",
+   "a": 266,
+   "b": 330,
+   "t0": 0,
+   "t1": 64,
+   "line": "What if you never needed to sleep?"
+  },
+  {
+   "shot": "S11",
+   "a": 330,
+   "b": 402,
+   "t0": 0,
+   "t1": 72,
+   "line": "Eight extra hours, every night."
+  },
+  {
+   "shot": "S12",
+   "a": 402,
+   "b": 501,
+   "t0": 0,
+   "t1": 99,
+   "line": "But sleep is at least four hundred fifty million years old."
+  },
+  {
+   "shot": "S13",
+   "a": 501,
+   "b": 613,
+   "t0": 0,
+   "t1": 112,
+   "line": "Even jellyfish do it. No brain. That's real."
+  },
+  {
+   "shot": "S14",
+   "a": 613,
+   "b": 678,
+   "t0": 0,
+   "t1": 65,
+   "line": "You should be the only one who doesn't."
+  },
+  {
+   "shot": "S15",
+   "a": 678,
+   "b": 691,
+   "t0": 0,
+   "t1": 13,
+   "line": "So who's"
+  },
+  {
+   "shot": "S16",
+   "a": 691,
+   "b": 748,
+   "t0": 0,
+   "t1": 57,
+   "line": "that, waving at you?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide, low across the street",
+   "key": 24,
+   "len": 33,
+   "first": 0,
+   "line": "Lights out.",
+   "note": "The block at night, every window lit. On 'out' they die in a sweep. One amber window stays on."
+  },
+  {
+   "id": "S2",
+   "size": "medium, three-quarter",
+   "key": 16,
+   "len": 23,
+   "first": 33,
+   "line": "You beat the game.",
+   "note": "Pip on the sofa in the dark, pad in hand, TV light on his face, eyes amber."
+  },
+  {
+   "id": "S3",
+   "size": "macro insert, over the pad",
+   "key": 22,
+   "len": 19,
+   "first": 56,
+   "line": "",
+   "note": "The TV fills the frame: the boss's bar empties, it bursts, YOU WIN. Thumbs mash in the blurred foreground."
+  },
+  {
+   "id": "S4",
+   "size": "macro insert, wall",
+   "key": 12,
+   "len": 36,
+   "first": 75,
+   "line": "Lights out.",
+   "note": "Mum's hand flips the hall switch. Warm wall goes dark."
+  },
+  {
+   "id": "S5",
+   "size": "close medium, moonlit",
+   "key": 12,
+   "len": 25,
+   "first": 111,
+   "line": "You learn guitar.",
+   "note": "Pip fumbles a chord, tongue-out effort, a string pings loose."
+  },
+  {
+   "id": "S6",
+   "size": "low angle, full figure",
+   "key": 12,
+   "len": 20,
+   "first": 136,
+   "line": "",
+   "note": "Pip rocks out, foot on the amp, guitar up, the moon behind him."
+  },
+  {
+   "id": "S7",
+   "size": "medium, side-on",
+   "key": 10,
+   "len": 35,
+   "first": 156,
+   "line": "Lights out.",
+   "note": "Sis asleep with the cat on the duvet. Her nightlight clicks off."
+  },
+  {
+   "id": "S8",
+   "size": "low, from the bed",
+   "key": 22,
+   "len": 30,
+   "first": 191,
+   "line": "You stand there,",
+   "note": "The door creaks open. A tall dark figure in the hall light, two amber eyes."
+  },
+  {
+   "id": "S9",
+   "size": "extreme close-up",
+   "key": 24,
+   "len": 45,
+   "first": 221,
+   "line": "watching them breathe.",
+   "note": "Pip's face half in the dark, unblinking, a slow head tilt. Uneasy."
+  },
+  {
+   "id": "S10",
+   "size": "wide, title",
+   "key": 40,
+   "len": 64,
+   "first": 266,
+   "line": "What if you never needed to sleep?",
+   "note": "The dark block, one window lit, the title over the sky."
+  },
+  {
+   "id": "S11",
+   "size": "wide, rooftop at dawn",
+   "key": 34,
+   "len": 72,
+   "first": 330,
+   "line": "Eight extra hours, every night.",
+   "note": "Time-lapse: the sun comes up fast behind Pip, +8H pops up three times, arms up."
+  },
+  {
+   "id": "S12",
+   "size": "schematic",
+   "key": 86,
+   "len": 99,
+   "first": 402,
+   "line": "But sleep is at least four hundred fifty million years old.",
+   "note": "A line of sleeping animals running back 450,000,000 years, ending at a wide-awake YOU."
+  },
+  {
+   "id": "S13",
+   "size": "macro, under water",
+   "key": 64,
+   "len": 112,
+   "first": 501,
+   "line": "Even jellyfish do it. No brain. That's real.",
+   "note": "A jellyfish pulsing slowly. A scan ring finds no brain: BRAIN 0."
+  },
+  {
+   "id": "S14",
+   "size": "over the shoulder",
+   "key": 54,
+   "len": 65,
+   "first": 613,
+   "line": "You should be the only one who doesn't.",
+   "note": "Pip at his window, the block opposite all dark. In the pause one window clicks on, cold white."
+  },
+  {
+   "id": "S15",
+   "size": "close-up",
+   "key": 8,
+   "len": 13,
+   "first": 678,
+   "line": "So who's",
+   "note": "Pip's face in the cold light, shock."
+  },
+  {
+   "id": "S16",
+   "size": "extreme zoom on the far window",
+   "key": 22,
+   "len": 57,
+   "first": 691,
+   "line": "that, waving at you?",
+   "note": "A figure in a suit, dark against the light, waves. Amber eyes. Click: the window dies, the eyes stay a beat, then black."
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.3259,
+  "musicVol": 0.0764,
+  "voice": "lights-out/voice.wav",
+  "sfx": "lights-out/sfx.wav",
+  "music": "lights-out/music.wav"
+ }
+}

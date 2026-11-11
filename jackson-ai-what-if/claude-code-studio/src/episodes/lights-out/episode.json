@@ -1,0 +1,596 @@
+{
+  "id": "LightsOut",
+  "slug": "lights-out",
+  "topic": "What if you never needed to sleep?",
+  "title": [
+    "WHAT IF YOU NEVER",
+    "NEEDED TO SLEEP?"
+  ],
+  "accent": "SLEEP",
+  "power": {
+    "word": "Lights out",
+    "sound": "a wall switch click, then the room drops into silence",
+    "look": "the building's windows die in a sweep, one amber window stays on, and Pip's eyes catch amber",
+    "rule": "Everyone else still shuts down. You never do."
+  },
+  "script": [
+    {
+      "beat": "1 cold open, demo 1 (small and selfish)",
+      "text": "Lights out. You beat the game."
+    },
+    {
+      "beat": "1 cold open, demo 2 (useful)",
+      "text": "Lights out. You learn guitar."
+    },
+    {
+      "beat": "1 cold open, demo 3 (a little uncanny)",
+      "text": "Lights out. You stand there, watching them breathe."
+    },
+    {
+      "beat": "2 the premise (title card)",
+      "text": "What if you never needed to sleep?"
+    },
+    {
+      "beat": "3 the fun part",
+      "text": "Eight extra hours, every night."
+    },
+    {
+      "beat": "4 the turn: one real fact",
+      "text": "But sleep is at least four hundred fifty million years old. Even jellyfish do it. No brain. That's real."
+    },
+    {
+      "beat": "5 someone notices",
+      "text": "You should be the only one who doesn't."
+    },
+    {
+      "beat": "6-7 folded into a threat",
+      "text": "So who's that, waving at you?"
+    }
+  ],
+  "science": [
+    {
+      "claim": "Sleep is at least 450 million years old.",
+      "working": "Leung et al. recorded sleep-state brain activity in zebrafish that resembles slow-wave and REM sleep in land vertebrates. Fish and land vertebrates last shared an ancestor at least 450 million years ago, so the researchers date these neural sleep patterns to at least then. Caveat: an inference from young fish, and it dates the brain patterns, so the script keeps 'at least' and never says every animal sleeps (Stanford's own release says scientists can't say that for certain).",
+      "source": "Leung et al., Nature 2019; Stanford Medicine release, 'Neural sleep patterns emerged at least 450 million years ago', via ScienceDaily 10 Jul 2019"
+    },
+    {
+      "claim": "Even jellyfish do it, and they have no brain.",
+      "working": "Cassiopea, the upside-down jellyfish, has a diffuse nerve net and no central brain. It met three behavioural tests for a sleep-like state: reduced activity at night, slower response to a stimulus, and rebound after being deprived of rest. The paper's term is 'sleep-like state'.",
+      "source": "Nath et al., 'The Jellyfish Cassiopea Exhibits a Sleep-like State', Current Biology, 21 Sep 2017"
+    },
+    {
+      "claim": "Eight extra hours, every night.",
+      "working": "The premise, not a measurement: the hours a person who sleeps eight hours gets back. No statistic is claimed.",
+      "source": "arithmetic on the premise"
+    }
+  ],
+  "gaps": {
+    "word": 0.12,
+    "comma": 0.22,
+    "sentence": 0.36,
+    "question": 0.45,
+    "pairs": {
+      "out|You": 0.62,
+      "game|Lights": 0.62,
+      "guitar|Lights": 0.62,
+      "breathe|What": 0.8,
+      "sleep|Eight": 0.6,
+      "night|But": 0.6,
+      "old|Even": 0.4,
+      "it|No": 0.34,
+      "brain|Thats": 0.5,
+      "real|You": 0.7,
+      "doesnt|So": 0.92,
+      "that|waving": 0.3
+    }
+  },
+  "shots": [
+    {
+      "id": "S1",
+      "size": "wide, low across the street",
+      "set": "apartments",
+      "key": 24,
+      "note": "The block at night, every window lit. On 'out' they die in a sweep. One amber window stays on."
+    },
+    {
+      "id": "S2",
+      "size": "medium, three-quarter",
+      "set": "lounge",
+      "key": 16,
+      "note": "Pip on the sofa in the dark, pad in hand, TV light on his face, eyes amber."
+    },
+    {
+      "id": "S3",
+      "size": "macro insert, over the pad",
+      "set": "tv",
+      "key": 22,
+      "note": "The TV fills the frame: the boss's bar empties, it bursts, YOU WIN. Thumbs mash in the blurred foreground."
+    },
+    {
+      "id": "S4",
+      "size": "macro insert, wall",
+      "set": "hall wall",
+      "key": 12,
+      "note": "Mum's hand flips the hall switch. Warm wall goes dark."
+    },
+    {
+      "id": "S5",
+      "size": "close medium, moonlit",
+      "set": "lounge",
+      "key": 12,
+      "note": "Pip fumbles a chord, tongue-out effort, a string pings loose."
+    },
+    {
+      "id": "S6",
+      "size": "low angle, full figure",
+      "set": "lounge",
+      "key": 12,
+      "note": "Pip rocks out, foot on the amp, guitar up, the moon behind him."
+    },
+    {
+      "id": "S7",
+      "size": "medium, side-on",
+      "set": "sister's room",
+      "key": 10,
+      "note": "Sis asleep with the cat on the duvet. Her nightlight clicks off."
+    },
+    {
+      "id": "S8",
+      "size": "low, from the bed",
+      "set": "sister's room",
+      "key": 22,
+      "note": "The door creaks open. A tall dark figure in the hall light, two amber eyes."
+    },
+    {
+      "id": "S9",
+      "size": "extreme close-up",
+      "set": "sister's room",
+      "key": 24,
+      "note": "Pip's face half in the dark, unblinking, a slow head tilt. Uneasy."
+    },
+    {
+      "id": "S10",
+      "size": "wide, title",
+      "set": "apartments",
+      "key": 40,
+      "note": "The dark block, one window lit, the title over the sky."
+    },
+    {
+      "id": "S11",
+      "size": "wide, rooftop at dawn",
+      "set": "rooftop",
+      "key": 34,
+      "note": "Time-lapse: the sun comes up fast behind Pip, +8H pops up three times, arms up."
+    },
+    {
+      "id": "S12",
+      "size": "schematic",
+      "set": "schematic",
+      "key": 86,
+      "note": "A line of sleeping animals running back 450,000,000 years, ending at a wide-awake YOU."
+    },
+    {
+      "id": "S13",
+      "size": "macro, under water",
+      "set": "deep water",
+      "key": 64,
+      "note": "A jellyfish pulsing slowly. A scan ring finds no brain: BRAIN 0."
+    },
+    {
+      "id": "S14",
+      "size": "over the shoulder",
+      "set": "pip's window",
+      "key": 54,
+      "note": "Pip at his window, the block opposite all dark. In the pause one window clicks on, cold white."
+    },
+    {
+      "id": "S15",
+      "size": "close-up",
+      "set": "pip's window",
+      "key": 8,
+      "note": "Pip's face in the cold light, shock."
+    },
+    {
+      "id": "S16",
+      "size": "extreme zoom on the far window",
+      "set": "pip's window",
+      "key": 22,
+      "note": "A figure in a suit, dark against the light, waves. Amber eyes. Click: the window dies, the eyes stay a beat, then black."
+    }
+  ],
+  "edit": [
+    {
+      "shot": "S1",
+      "at": "Lights"
+    },
+    {
+      "shot": "S2",
+      "at": "You",
+      "look": "awake"
+    },
+    {
+      "shot": "S3",
+      "at": "game+9",
+      "look": "awake"
+    },
+    {
+      "shot": "S4",
+      "at": "Lights"
+    },
+    {
+      "shot": "S5",
+      "at": "You",
+      "look": "awake"
+    },
+    {
+      "shot": "S6",
+      "at": "guitar+13",
+      "look": "awake"
+    },
+    {
+      "shot": "S7",
+      "at": "Lights"
+    },
+    {
+      "shot": "S8",
+      "at": "You",
+      "look": "awake"
+    },
+    {
+      "shot": "S9",
+      "at": "watching",
+      "look": "awake"
+    },
+    {
+      "shot": "S10",
+      "at": "What+-5"
+    },
+    {
+      "shot": "S11",
+      "at": "Eight"
+    },
+    {
+      "shot": "S12",
+      "at": "But"
+    },
+    {
+      "shot": "S13",
+      "at": "Even"
+    },
+    {
+      "shot": "S14",
+      "at": "You"
+    },
+    {
+      "shot": "S15",
+      "at": "So"
+    },
+    {
+      "shot": "S16",
+      "at": "that"
+    }
+  ],
+  "end": "f:748",
+  "fx": [],
+  "cast": [
+    "Pip (hero, hoodie)",
+    "mum (hand only)",
+    "sis",
+    "the suit (silhouette)"
+  ],
+  "sound": {
+    "clips": {
+      "game_mash": [
+        "rapid frantic thumb button mashing on a plastic game controller, close up, no music",
+        0.8
+      ],
+      "game_win": [
+        "a short retro 8-bit video game victory fanfare with an explosion blip at the start, chiptune",
+        1.3
+      ],
+      "chord_bad": [
+        "a clumsy out of tune electric guitar chord, fingers buzzing on the strings, then one string snapping with a ping",
+        0.8
+      ],
+      "power_chord": [
+        "one huge distorted electric guitar power chord through a small amp, single strum ringing out, rock",
+        1.4
+      ],
+      "door_creak": [
+        "an old wooden bedroom door creaking slowly open in a silent house, one long low creak",
+        1.3
+      ],
+      "sleep_breath": [
+        "a child breathing slowly and softly in deep sleep, one quiet breath in and out, close, no voice",
+        1.4
+      ],
+      "dread_drone": [
+        "a very low quiet unsettling sub bass drone swelling slowly, dread, no melody",
+        2.5
+      ],
+      "time_rise": [
+        "a warm bright rising orchestral shimmer, a sunrise time lapse swell building upward, strings and bells",
+        2.2
+      ],
+      "point_chime": [
+        "a short bright soft arcade point-gain chime, two rising notes",
+        0.5
+      ],
+      "scan_beep": [
+        "a short electronic scanner sweep, thin rising beeps, science lab",
+        0.7
+      ],
+      "deep_water": [
+        "deep underwater ambience, slow soft bubbles and a low muffled current, no voices",
+        4.0
+      ],
+      "heartbeat": [
+        "one single deep slow human heartbeat thump, close and low",
+        0.7
+      ],
+      "music": [
+        "sparse late night lo-fi music, soft felt piano over a slow brushed beat and warm tape hiss, curious and a little lonely, 72 bpm, no vocals",
+        14.0
+      ],
+      "room_tone": [
+        "quiet indoor room tone in the evening, faint distant city hum, no voices",
+        12.5
+      ],
+      "roof_wind": [
+        "a gentle evening breeze on a city rooftop, distant traffic",
+        7.0
+      ],
+      "drone_hit": [
+        "a dark ominous low drone hit, deep cinematic horror sting",
+        2.6
+      ],
+      "title_boom": [
+        "a cinematic whoosh rising into a deep boom impact",
+        1.6
+      ],
+      "counter_tick": [
+        "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+        1.6
+      ],
+      "buzzer": [
+        "a game show wrong answer buzzer, short",
+        0.8
+      ],
+      "copy_click": [
+        "a crisp satisfying computer copy click with a tiny soft digital chime, short",
+        0.5
+      ],
+      "switch_off": [
+        "a heavy electrical breaker switching off with a dull clunk",
+        0.5
+      ]
+    },
+    "events": [
+      [
+        "S1",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S2"
+      ],
+      [
+        "S1+19",
+        "copy_click",
+        0.5
+      ],
+      [
+        "S2",
+        "room_tone",
+        0.06,
+        "onset",
+        "S10"
+      ],
+      [
+        "S2",
+        "game_mash",
+        0.14,
+        "onset",
+        "S3"
+      ],
+      [
+        "S3+4",
+        "game_win",
+        0.5,
+        "onset",
+        "S4+4"
+      ],
+      [
+        "S4+22",
+        "copy_click",
+        0.5
+      ],
+      [
+        "S5+5",
+        "chord_bad",
+        0.1,
+        "onset",
+        "guitar"
+      ],
+      [
+        "S6+1",
+        "power_chord",
+        0.75,
+        "onset",
+        "S7+6"
+      ],
+      [
+        "S7+21",
+        "copy_click",
+        0.5
+      ],
+      [
+        "S8+2",
+        "door_creak",
+        0.18,
+        "onset",
+        "S9+6"
+      ],
+      [
+        "S8+6",
+        "dread_drone",
+        0.1,
+        "onset",
+        "S10"
+      ],
+      [
+        "S9+29",
+        "sleep_breath",
+        0.4,
+        "onset",
+        "S10"
+      ],
+      [
+        "S10+2",
+        "title_boom",
+        0.32,
+        "peak",
+        "S10+7"
+      ],
+      [
+        "S10",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S11"
+      ],
+      [
+        "S11",
+        "time_rise",
+        0.15,
+        "onset",
+        "S12"
+      ],
+      [
+        "S11",
+        "roof_wind",
+        0.07,
+        "onset",
+        "S12"
+      ],
+      [
+        "S11+4",
+        "point_chime",
+        0.2
+      ],
+      [
+        "S11+34",
+        "point_chime",
+        0.2
+      ],
+      [
+        "S11+59",
+        "point_chime",
+        0.2
+      ],
+      [
+        "S12",
+        "drone_hit",
+        0.2,
+        "onset",
+        "S13"
+      ],
+      [
+        "S12+30",
+        "counter_tick",
+        0.05,
+        "onset",
+        "S12+66"
+      ],
+      [
+        "S12+90",
+        "heartbeat",
+        0.55
+      ],
+      [
+        "S13",
+        "deep_water",
+        0.07,
+        "onset",
+        "S14"
+      ],
+      [
+        "S13+48",
+        "scan_beep",
+        0.14,
+        "onset",
+        "S13+64"
+      ],
+      [
+        "S13+66",
+        "buzzer",
+        0.2,
+        "onset",
+        "S13+78"
+      ],
+      [
+        "S14",
+        "room_tone",
+        0.06,
+        "onset",
+        "S16"
+      ],
+      [
+        "S14+47",
+        "copy_click",
+        0.3
+      ],
+      [
+        "S14+50",
+        "heartbeat",
+        0.6
+      ],
+      [
+        "S16",
+        "dread_drone",
+        0.1,
+        "onset",
+        "S16+40"
+      ],
+      [
+        "S16+40",
+        "copy_click",
+        0.75
+      ],
+      [
+        "S14+60",
+        "heartbeat",
+        0.5
+      ],
+      [
+        "S16+40",
+        "switch_off",
+        0.4
+      ]
+    ],
+    "repeats": [
+      {
+        "at": "S1+21",
+        "clip": "copy_click",
+        "n": 5,
+        "every": 2,
+        "gain": [
+          0.1,
+          0.22
+        ],
+        "pitch": [
+          0.8,
+          1.3
+        ],
+        "note": "the windows dying across the block, the sweep in S1 runs t 19 to 30"
+      }
+    ],
+    "music": {
+      "clip": "music",
+      "until": "S12"
+    },
+    "levels": {
+      "sfx_lu": -6,
+      "music_lu": -13
+    }
+  }
+}

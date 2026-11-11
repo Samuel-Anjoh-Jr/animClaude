@@ -1,0 +1,3 @@
+{"scenes":[
+{"set":"empty","palette":"night","duration":3,"hero":[{"x":120,"arms":"down"},{"x":270,"arms":"crossed","mood":"angry"},{"x":420,"arms":"hips","mood":"determined"},{"x":580,"arms":"head","mood":"happy"},{"x":740,"arms":"scratch","mood":"tired"},{"x":890,"arms":"pockets","mood":"sad"},{"x":1040,"arms":"point","mood":"determined","headband":true}]},
+{"set":"empty","palette":"cold","duration":3,"hero":[{"x":140,"pose":"lean","arms":"pockets"},{"x":320,"pose":"walk","to_x":330,"mood":"neutral"},{"x":500,"pose":"sit","mood":"tired"},{"x":700,"pose":"curl"},{"x":950,"pose":"pushup","headband":true,"mood":"angry"},{"x":1160,"arms":"raise","mood":"happy"}]}]}

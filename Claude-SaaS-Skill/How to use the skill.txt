@@ -1,0 +1,11 @@
+Claude SaaS Animation Skill
+
+1. Make a folder for your ad, for example "Spotify".
+2. Put saas-animation.skill in that folder.
+3. Add a high resolution logo and real screenshots of your app or product.
+4. Give Claude access to the folder.
+5. Ask for a numbered storyboard. Approve it or ask for changes before anything is animated.
+6. Add your sound effects and music to the folder once you're happy with the visuals.
+
+For 3D product ads, install Blender as well. It's free and you never have to open it:
+https://www.blender.org/download/
