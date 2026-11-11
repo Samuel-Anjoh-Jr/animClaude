@@ -42,3 +42,6 @@ Thumbs.db
 !examples/showcase/curiosity-reel-2.mp4
 !examples/showcase/curiosity-reel-1.mp4
 !examples/showcase/ais-live-ad.mp4
+
+# trimmed from repo to keep it light
+examples/showcase/ais-live-ad.mp4

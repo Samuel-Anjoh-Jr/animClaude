@@ -26,3 +26,7 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# trimmed from repo to keep it light
+media/ais.webp
+media/nateherk.webp
